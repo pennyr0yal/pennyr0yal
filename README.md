@@ -2,7 +2,7 @@
 
 A linguist by trade, I've spent most of my professional life working with human languages and now I'm devoted to programming languages. I'm a 🐍 Python developer, passionate about **data, dashboards and tools that avoid boring and repetitive routines**.
 
-Since I first started programming, turning routines into automated processes has turned into a healthy addiction: the more I discover what Python can do, the more ideas I come up with to make work more **agile and intelligent**. The feeling of running a script and seeing what used to take an hour happen in seconds is like magic. And it's even better when that magic **solves someone's problem**.
+Since I first started programming, turning routines into automated processes has become a healthy addiction: the more I discover what Python can do, the more ideas I come up with to make work more **agile and intelligent**. The feeling of running a script and seeing what used to take an hour happen in seconds is like magic. And it's even better when that magic **solves someone's problem**.
 
 #### What I know
 - While everyone hates working with spreadsheets, I ❤️ working with Excel! All the way from **data processing** to creating **dashboards** that summarize and present information quickly and clearly to those who need to see it.
