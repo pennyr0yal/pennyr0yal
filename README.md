@@ -11,12 +11,12 @@ Since I first started programming, turning routines into automated processes has
 - And, given that we probably should not make the end user interact with the scary scary terminal, I also learned how to create graphical interfaces with `tkinter`.
 
 ##### TL;DR
-- **Languages & Tools:** Python, advanced Excel, Git/GitHub, SQL, HTML, CSS
-- **Automation & Web Scraping:** selenium, pyautogui, requests, beautifulsoup4
-- **Data Manipulation:** pandas, polars, xlsxwriter, csv, json
-- **Data Visualization:** matplotlib, plotly
-- **Graphic Interfaces:** tkinter
-- **Web Frameworks:** Django
+- **Languages & Tools:** `Python`, advanced `Excel`, `Git/GitHub`, `SQL`, `HTML`, `CSS`
+- **Automation & Web Scraping:** `selenium`, `pyautogui`, `requests`, `beautifulsoup4`
+- **Data Manipulation:** `pandas`, `polars`, `xlsxwriter`, `csv`, `json`
+- **Data Visualization:** `matplotlib`, `plotly`
+- **Graphic Interfaces:** `tkinter`
+- **Web Frameworks:** `Django`
 
 #### Soft skills
 - Lean mindset
@@ -51,12 +51,12 @@ Desde que comecei a programar, transformar rotinas em processos automatizados se
 - E, pensando que o usuário final dos programas não vai querer interagir com o terminal, aprendi também a criar interfaces gráficas com o `tkinter`.
 
 ##### TL;DR
-- **Linguagens & Ferramentas:** Python, Excel avançado, Git/GitHub, SQL, HTML, CSS
-- **Automação & Web Scraping:** selenium, pyautogui, requests, beautifulsoup4
-- **Manipulação de Dados:** pandas, polars, xlsxwriter, csv, json
-- **Visualização de Dados:** matplotlib, plotly
-- **Interfaces Gráficas:** tkinter
-- **Web Frameworks:** Django
+- **Linguagens & Ferramentas:** `Python`, `Excel` avançado, `Git/GitHub`, `SQL`, `HTML`, `CSS`
+- **Automação & Web Scraping:** `selenium`, `pyautogui`, `requests`, `beautifulsoup4`
+- **Manipulação de Dados:** `pandas`, `polars`, `xlsxwriter`, `csv`, `json`
+- **Visualização de Dados:** `matplotlib`, `plotly`
+- **Interfaces Gráficas:** `tkinter`
+- **Web Frameworks:** `Django`
 
 #### Soft skills
 - Mentalidade Lean
