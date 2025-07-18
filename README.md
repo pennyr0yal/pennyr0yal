@@ -4,7 +4,7 @@ A linguist by trade, I've spent most of my professional life working with human 
 
 Since I first started programming, turning routines into automated processes has turned into a healthy addiction: the more I discover what Python can do, the more ideas I come up with to make work more **agile and intelligent**. The feeling of running a script and seeing what used to take an hour happen in seconds is like magic. And it's even better when that magic **solves someone's problem**.
 
-#### About what I know and what I want to learn
+#### What I know
 - While everyone hates working with spreadsheets, I ❤️ working with Excel! All the way from **data processing** to creating **dashboards** that summarize and present information quickly and clearly to those who need to see it.
 - I started experimenting with Python after noticing that my team was carrying out too many repetitive tasks every day. Lean thinking: *Reduce waste and rework*. After a few days developing a script, a report that took up 1 hour of our time every day was now generated, validated and sent in 5 minutes.
 - Along with `pandas` came **automation tools**. Why manually download 40 reports to generate a KPI if you can do webscraping with `Selenium` or `requests` while you're completing other tasks?
@@ -44,7 +44,7 @@ Linguista por vocação, passei grande parte da minha vida profissional trabalha
 
 Desde que comecei a programar, transformar rotinas em processos automatizados se tornou um vício bom: quanto mais descubro o que o Python pode fazer, mais ideias surgem para tornar o trabalho mais **ágil e inteligente**. A sensação de rodar um script e ver o que levava 1 hora acontecer em segundos é como mágica. E melhor ainda quando essa mágica **resolve o problema de alguém de verdade**.
 
-#### Sobre o que eu sei e o que quero aprender
+#### O que eu sei
 - Enquanto todo mundo odeia mexer com planilhas, eu ❤️ Excel! Desde **tratamento de dados** até elaboração de **dashboards** que sintetizam e apresentam informações de forma rápida e clara para quem precisa recebê-las.
 - Comecei a me aventurar em Python após notar que meu time fazia muitas tarefas repetitivas todos os dias. Pensamento *Lean*: Reduzir despercídios e retrabalho. Após alguns dias desenvolvendo um script, um relatório que tomava 1 hora do nosso tempo, todos os dias, era gerado, validado e enviado em 5 minutos.
 - Junto com `pandas` vieram também **ferramentas de automação**. Pra quê baixar manualmente 40 relatórios para gerar um KPI se podemos fazer webscraping com `Selenium` ou `requests` enquanto executamos outras tarefas?
