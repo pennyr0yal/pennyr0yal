@@ -24,7 +24,7 @@ Since I first started programming, turning routines into automated processes has
 - Experience with repetitive workflows
 - Ability to identify automation opportunities in real -life processes
 - Ability to communicate with stakeholders to understand needs and expectations
-- Curiosity, forever seeking new challenges!
+- Unstoppable curiosity, forever seeking new challenges!
 
 #### 🌟 What's unique about me
 
