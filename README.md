@@ -1,6 +1,6 @@
 ## 🌐 print('Hello, world!')
 
-A linguist by trade, I've spent most of my professional life working with human languages and now I'm devoted to programming languages. I'm a 🐍 Python developer, passionate about **data, dashboards and tools that avoid boring and repetitive routines**.
+A linguist by trade, I've spent most of my professional life working with human languages and now I'm devoted to programming languages. I'm a 🐍 Python developer (focused on RPA and data engineering), passionate about **data, dashboards and tools that avoid boring and repetitive routines**.
 
 Since I first started programming, turning routines into automated processes has become a healthy addiction: the more I discover what Python can do, the more ideas I come up with to make work more **agile and intelligent**. The feeling of running a script and seeing what used to take an hour happen in seconds is like magic. And it's even better when that magic **solves someone's problem**.
 
@@ -40,7 +40,7 @@ Since I first started programming, turning routines into automated processes has
 -------
 ## 🌐 print('Hello, world!')
 
-Linguista por vocação, passei grande parte da minha vida profissional trabalhando com linguagens humanas e agora me dedico às linguagens de programação. Sou desenvolvedora 🐍 Python, apaixonada por **dados, dashboards e ferramentas que evitam rotinas chatas e repetitivas**.
+Linguista por vocação, passei grande parte da minha vida profissional trabalhando com linguagens humanas e agora me dedico às linguagens de programação. Sou desenvolvedora 🐍 Python (com foco em RPA e engenharia de dados), apaixonada por **dados, dashboards e ferramentas que evitam rotinas chatas e repetitivas**.
 
 Desde que comecei a programar, transformar rotinas em processos automatizados se tornou um vício bom: quanto mais descubro o que o Python pode fazer, mais ideias surgem para tornar o trabalho mais **ágil e inteligente**. A sensação de rodar um script e ver o que levava 1 hora acontecer em segundos é como mágica. E melhor ainda quando essa mágica **resolve o problema de alguém de verdade**.
 
